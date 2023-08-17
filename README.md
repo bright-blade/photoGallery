@@ -4,7 +4,8 @@
 
 copy the .env.example to the .env and fill the values
 
-and than run:
+run:
+### npm i
 ### npm start
 
 # I hope you will have joy!
